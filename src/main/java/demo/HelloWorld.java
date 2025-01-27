@@ -9,7 +9,7 @@ public class HelloWorld {
 	
 	//from b1 branch demo
 	public void m1() {
-		System.out.println("from m1");
+		System.out.println("from m1");//from dev2 - d1 branch code changes
 	}
 
 }
