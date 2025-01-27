@@ -1,5 +1,5 @@
 package demo;
-
+//reset demo
 public class HelloWorld {
 
 	//d11 code change for stash conflict demo
